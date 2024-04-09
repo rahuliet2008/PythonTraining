@@ -1,0 +1,17 @@
+{
+    "Name": [
+        "john",
+        "Rahul",
+        "Mark"
+    ],
+    "Age": [
+        22,
+        35,
+        48
+    ],
+    "color": [
+        "grey",
+        "black",
+        "white"
+    ]
+}
