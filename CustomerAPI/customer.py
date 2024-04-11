@@ -1,4 +1,5 @@
 import sys
+#sys.path.append('../')
 #sys.path.insert(0, 'C:\\Users\\MU59BM\\source\\repos\\PythonTraining')
 from .Authentication.sqlconnect import SQLConnection
 from flask import Flask
